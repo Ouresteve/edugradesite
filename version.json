@@ -1,0 +1,7 @@
+{
+  "latest_version": "2.0.1",
+  "min_required_version": "1.0.0",
+  "apk_download_url": "https://ouresteve.github.io/edugradesite/edupgrade.apk",
+  "release_notes": "Improved Primary report generation\nBetter loading experience\nFixed minor bugs",
+  "update_message": "A new version of EduGrade is available. Please download the latest version."
+}
